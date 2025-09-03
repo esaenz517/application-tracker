@@ -1,0 +1,54 @@
+{
+  "applications": [
+    {
+      "id": 6168,
+      "title": "Software Engineer Intern",
+      "company": "Sony",
+      "location": "Remote",
+      "status": "🔎 Reviewing",
+      "dateApplied": "August 14, 2025",
+      "notes": "",
+      "link": "https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/Software-Engineer-Intern_JR-117822"
+    },
+    {
+      "id": 5947,
+      "title": "Software Engineer Fullstack",
+      "company": "Microsoft",
+      "location": "Remote",
+      "status": "⏳ Pending",
+      "dateApplied": "August 14, 2025",
+      "notes": "",
+      "link": "https://jobs.careers.microsoft.com/us/en/job/1856354/Software-Engineer-Fullstack-Multiple-Locations?jobsource=linkedin"
+    },
+    {
+      "id": 2345,
+      "title": "Software Engineer Intern",
+      "company": "Wurl",
+      "location": "Remote",
+      "status": "👻 Ghosted",
+      "dateApplied": "August 14, 2025",
+      "notes": "",
+      "link": "https://job-boards.greenhouse.io/wurljobs/jobs/4552288006?gh_src=5874d0446us"
+    },
+    {
+      "id": 5678,
+      "title": "Software Engineer Intern",
+      "company": "Wurl",
+      "location": "Remote",
+      "status": "⏳ Pending",
+      "dateApplied": "August 14, 2025",
+      "notes": "",
+      "link": "https://job-boards.greenhouse.io/wurljobs/jobs/4552288006?gh_src=5874d0446us"
+    },
+    {
+      "id": 5306,
+      "title": "Software Engineer Intern",
+      "company": "Wurl",
+      "location": "Remote",
+      "status": "✅ Accepted",
+      "dateApplied": "August 14, 2025",
+      "notes": "",
+      "link": "https://job-boards.greenhouse.io/wurljobs/jobs/4552288006?gh_src=5874d0446us"
+    }
+  ]
+}

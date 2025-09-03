@@ -1,0 +1,45 @@
+## Introduction  
+
+The **Job Application Tracker** is a tool designed to help users organize and manage their job application process. Instead of relying on boring spreadsheets or sticky notes, this application provides a structured way to keep track of every job application in one place.  
+
+With the tracker, you can:  
+- Add new job applications with relevant details  
+- Edit or update applications as your job search progresses  
+- Change the status of applications (e.g., *Applied*, *Interviewing*, *Ghosted*, *Rejected*)  
+
+This project aims to simplify the job hunt for struggling computer science majors by giving you a clear overview of your progress and helping you stay on top of important deadlines and updates.  
+
+
+## Tech Stack
+Vite + React
+HTML
+CSS
+
+
+## Dependencies
+# Install Node.js (via Homebrew)
+brew install node
+
+# Install frontend dependencies
+cd client
+npm install
+
+# Install backend dependencies
+npm install express
+npm install nodemon -D
+
+
+
+## Start application
+--Running backend
+cd ../client
+npm run dev
+
+--Running frontend
+cd ../server
+npm run dev
+
+
+# start-all.sh
+Utility script to launch the application on macOS using 'Automator'.
+Allows to launch the application through a desktop application.

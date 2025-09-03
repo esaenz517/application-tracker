@@ -1,0 +1,57 @@
+#root {
+  margin: 0 auto;
+  text-align: center;
+  padding: 50px;
+}
+
+html, body{
+  min-height: 100%;
+  margin: 0;
+}
+
+body {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: black;
+}
+
+li {
+  list-style-type: none;
+  /*padding: 5px;*/
+  margin: 5px;
+  justify-content: space-between;
+}
+
+.job-item {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px 0;
+  border-bottom: 1px solid #ddd
+}
+
+.container {
+  min-width: 1000px;
+  margin: 0 auto;
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(10px);
+  border-radius: 20px;
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  padding: 0;
+}
+
+.header {
+  background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+  color: white;
+  padding: 10px;
+  margin: 0 auto;
+}
+
+.content {
+  padding: 30px;
+}
+
+.applications-grid {
+  display: grid;
+  gap: 20px;
+  grid-template-columns: repeat(3, 1fr);
+}

@@ -1,0 +1,57 @@
+.edit-content {
+    padding: 0px;
+}
+.edit-container {
+  border-width: 1px;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: black;
+  height: 390px; /* increase height */
+  padding: 5px;
+  background-color: #F8F9FE;
+}
+
+.edit-line {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0px;
+  margin-bottom: 25px;
+  width: 100%;
+}
+
+.edit-input {
+  min-width: 150px;
+  max-width: 150px;
+  padding: 5px;
+  border: 1px solid black;
+  border-radius: 5px;
+  font-size: 12px;
+  color: black;
+  background-color: white;
+  margin: 0px;
+}
+
+.edit-drop {
+  min-width: 162px;
+  max-width: 162px;
+  padding: 5px;
+  border: 1px solid black;
+  border-radius: 5px;
+  font-size: 12px;
+  color: black;
+  background-color: white;
+  margin: 0px;
+}
+
+
+.edit-title {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.no-display{
+  display: none;
+}
